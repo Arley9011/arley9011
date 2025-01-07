@@ -1,10 +1,21 @@
 # :computer: ¡Bienvenidos a mi perfil! :blush:
 
-The most basic boilerplate for any 4Geeks Academy student, start your very first website from scratch.
+Soy una persona comprometida con sus labores y fácil adaptabilidad, me gustan todo lo que tenga que ver con tecnología y los sistemas.
 
-> There is a video tutorial on [how to use this template to create your very first website here](https://youtu.be/dfbDCMu_p-0).
 
-## What to do next?
+## ᴘʀᴏɢʀᴀᴍᴀᴅᴏʀ ᴇɴ ᴘʀᴏᴄᴇsᴏ
+
+Estoy en proceso de aprendizaje con 4Geeks Academy, estoy muy entusiasmado por adentrarme en el mundo de la programación.
+Tengo poca experiencia en este campo pero conozco de sistemas tanto de hardware como de software, algo de paquete de office ya que he trabajado en entidades financieras.
+
+```bash
+   _____            __               __
+  / ___/  ____ _   / /  __  __  ____/ /  ____    _____
+  \__ \  / __ `/  / /  / / / / / __  /  / __ \  / ___/
+ ___/ / / /_/ /  / /  / /_/ / / /_/ /  / /_/ / (__  )
+/____/  \__,_/  /_/   \__,_/  \__,_/   \____/ /____/
+```
+
 
 Create an `index.html` file with the [basic HTML structure](http://4geeks.com/lesson/what-is-html-learn-html#page-structure) and see it live by running a web-server using the following command:
 
